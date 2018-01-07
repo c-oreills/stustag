@@ -1,0 +1,4 @@
+beautifulsoup4
+googlemaps
+ipython
+requests
